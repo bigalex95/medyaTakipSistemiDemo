@@ -1,5 +1,6 @@
 {
   "name": "medyaTakipSistemi",
   "integrations": {},
-  "type": "angular"
+  "type": "angular",
+  "id": "ee0f479d"
 }
